@@ -1,6 +1,10 @@
 # HOW TO USE 
 
 ### setup
+`pip install poetry`
+
+`pip install --upgrade pip`
+
 `poetry install`
 
 ### run
